@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6C2443F2-0336-44B9-97B3-D275699FDCF6}</ProjectGuid>
+    <ProjectGuid>{CE1DBA11-8E58-41D7-BE62-6CF7CA2366F6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Helloworld</RootNamespace>
-    <AssemblyName>Helloworld</AssemblyName>
+    <RootNamespace>HelloWorld</RootNamespace>
+    <AssemblyName>HelloWorld</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Helloworld.Bitwise1</StartupObject>
+    <StartupObject>HelloWorld.Bitwise</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,9 +46,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bitwise1.cs" />
+    <Compile Include="Bitwise.cs" />
+    <Compile Include="Calculation.cs" />
+    <Compile Include="Constantex.cs" />
+    <Compile Include="Custom.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Quiz1.cs" />
+    <Compile Include="Unary.cs" />
+    <Compile Include="Variableex.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

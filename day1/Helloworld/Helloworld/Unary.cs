@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    internal class Program
+    internal class Unary
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Welcome to .Net");
+            int x = 12;
+            Console.WriteLine(x++);
+            Console.WriteLine(++x);
         }
     }
 }
