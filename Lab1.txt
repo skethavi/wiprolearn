@@ -1,0 +1,205 @@
+Question 1
+Marks: 1/1
+
+Hello World: Introduction to C#
+In this assignment, you will learn how to create a basic C# program that outputs Hello, World! to the console. This is a foundational exercise to get you started with C# programming.
+
+Task:
+
+Create a C# program with a Main method.
+Use the Console.WriteLine method to print Hello, World! to the console.
+Instructions:
+
+Write the C# code in the Main method as described above.
+Ensure that the message is displayed correctly when you run the program.
+Test your program by running it to verify its functionality.
+Document your code with appropriate comments to explain its purpose and functionality.
+Submission:
+
+Submit the C# code file (.cs) containing the implementation of the Main method.
+Include any additional instructions or notes if necessary.
+
+
+Your answer
+
+using System;
+
+public class Program {
+    public static void Main(string[] args) {
+        Console.WriteLine("Hello, World!");
+    }
+}
+Comment:
+
+All 2 test cases passed successfully.
+
+Question 2
+Marks: 1/1
+
+Adding Two Numbers: Introduction to C# Input Handling
+In this assignment, you will learn how to create a basic C# program that adds two numbers provided by the user. This exercise will help you understand how to take input from the user and perform basic arithmetic operations.
+
+Task:
+
+Input Handling:
+Use the Console.ReadLine() method to prompt the user to enter the first number.
+Use the Console.ReadLine() method again to prompt the user to enter the second number.
+Convert the user inputs to integers using the Convert.ToInt32() method.
+Arithmetic Operation:
+Add the two integers and store the result in a variable.
+Print Output:
+Print the sum of the two numbers to the console.
+Instructions:
+
+Write the C# code in the Main method as described above.
+Ensure that the input prompts are clear and informative to guide the user.
+Test your program by running it and providing different inputs to verify its functionality.
+Document your code with appropriate comments to explain its purpose and functionality.
+Submission:
+
+Submit the C# code file (.cs) containing the implementation of the Main method.
+Include any additional instructions or notes if necessary.
+
+
+Your answer
+
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Prompt the user to enter the first number
+        Console.WriteLine("Enter the first number:");
+        string num1=Console.ReadLine();
+        
+        // Complete Step 1:............
+
+        // Prompt the user to enter the second number
+    
+        Console.WriteLine("Enter the second number:");
+        string num2=Console.ReadLine();
+        // Complete Step 2:............
+        int n1=Convert.ToInt32(num1);
+        int n2=Convert.ToInt32(num2);
+        
+        int sum=n1+n2;
+        // Add the two numbers
+        // Complete Step 3:............
+        Console.WriteLine("The sum is: "+ sum);
+        // Print the sum
+        // Complete Step 4:............
+    }
+}
+Comment:
+
+All 2 test cases passed successfully.
+
+Question 3
+Marks: 1/1
+
+Advanced Input Handling and Arithmetic Operations in C#
+In this assignment, you will enhance a basic C# program that performs arithmetic operations on two numbers provided by the user. This exercise will help you understand how to take input from the user, validate it, handle exceptions, and perform multiple arithmetic operations.
+
+Task:
+
+Input Handling:
+Prompt the user to enter the first number using the Console.ReadLine() method.
+Prompt the user to enter the second number using the Console.ReadLine() method.
+Convert the user inputs to integers using the int.TryParse() method and ensure the inputs are valid integers. If the input is invalid, prompt the user to enter a valid number.
+Arithmetic Operations:
+Add the two integers and store the result in a variable.
+Subtract the second number from the first and store the result in a variable.
+Multiply the two integers and store the result in a variable.
+Divide the first number by the second and store the result in a variable, handling any potential division by zero exceptions.
+Print Output:
+Print the results of the addition, subtraction, multiplication, and division operations to the console.
+Instructions:
+
+Write the C# code in the Main method as described above.
+Ensure that the input prompts are clear and informative to guide the user.
+Test your program by running it and providing different inputs to verify its functionality.
+Document your code with appropriate comments to explain its purpose and functionality.
+Submission:
+
+Submit the C# code file (.cs) containing the implementation of the Main method.
+Include any additional instructions or notes if necessary.
+
+
+Your answer
+
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Prompt the user to enter the first number
+        int num1, num2;
+        Console.WriteLine("Enter the first number:");
+        
+        while (!int.TryParse(Console.ReadLine(), out num1))
+        {
+            Console.WriteLine("Invalid input. Please enter a valid integer:");
+        }
+
+        // Prompt the user to enter the second number
+        Console.WriteLine("Enter the second number:");
+    
+        while (!int.TryParse(Console.ReadLine(), out num2))
+        {
+            Console.WriteLine("Invalid input. Please enter a valid integer:");
+        }
+        int sum=num1+num2;
+        int difference=num1-num2;
+        int product =num1*num2;
+        bool divisionByZero=false;
+        double quotient=0;
+        if (num2 !=0){
+            quotient=(double)num1/num2;
+    
+        }
+        else{
+             divisionByZero=true;
+        }
+        // Perform arithmetic operations
+        /*
+        
+        Declare and Initialize Variables
+
+Define two integers, num1 and num2, with appropriate values.
+Declare variables sum, difference, product, and quotient to store results of operations.
+Use a bool variable divisionByZero to track whether a division by zero is attempted.
+Perform Addition, Subtraction, and Multiplication
+
+Calculate the sum, difference, and product using standard arithmetic operators (+, -, *).
+Store the results in the respective variables.
+Handle Division Operation Safely
+
+Before performing division, check if the divisor (num2) is not zero.
+If num2 is non-zero, perform the division and cast the result to double for precise results.
+If num2 is zero, set divisionByZero to true and avoid performing the division to prevent runtime exceptions.
+Output Results (Optional)
+
+Print the results of the arithmetic operations to the console.
+If divisionByZero is true, display an appropriate message instead of the quotient.
+        */
+        
+
+        // Print the results
+        Console.WriteLine("The sum is: " + sum);
+        Console.WriteLine("The difference is: " + difference);
+        Console.WriteLine("The product is: " + product);
+        if (!divisionByZero)
+        {
+            Console.WriteLine("The quotient is: " + quotient);
+        }
+        else
+        {
+            Console.WriteLine("Error: Division by zero is not allowed.");
+        }
+    }
+}
+Comment:
+
+All 3 test cases passed successfully.
