@@ -1,0 +1,7 @@
+D:\wipro\Day4\AbstractExample2\AbstractExample2\obj\Debug\AbstractExample2.csproj.AssemblyReference.cache
+D:\wipro\Day4\AbstractExample2\AbstractExample2\obj\Debug\AbstractExample2.csproj.CoreCompileInputs.cache
+D:\wipro\Day4\AbstractExample2\AbstractExample2\bin\Debug\AbstractExample2.exe.config
+D:\wipro\Day4\AbstractExample2\AbstractExample2\bin\Debug\AbstractExample2.exe
+D:\wipro\Day4\AbstractExample2\AbstractExample2\bin\Debug\AbstractExample2.pdb
+D:\wipro\Day4\AbstractExample2\AbstractExample2\obj\Debug\AbstractExample2.exe
+D:\wipro\Day4\AbstractExample2\AbstractExample2\obj\Debug\AbstractExample2.pdb

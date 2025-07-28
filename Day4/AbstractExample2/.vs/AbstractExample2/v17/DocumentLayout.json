@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro\\Day4\\AbstractExample2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D44D7C-448C-48B4-9354-0B51690BE7D0}|AbstractExample2\\AbstractExample2.csproj|d:\\wipro\\day4\\abstractexample2\\abstractexample2\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D44D7C-448C-48B4-9354-0B51690BE7D0}|AbstractExample2\\AbstractExample2.csproj|solutionrelative:abstractexample2\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D44D7C-448C-48B4-9354-0B51690BE7D0}|AbstractExample2\\AbstractExample2.csproj|d:\\wipro\\day4\\abstractexample2\\abstractexample2\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D44D7C-448C-48B4-9354-0B51690BE7D0}|AbstractExample2\\AbstractExample2.csproj|solutionrelative:abstractexample2\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D44D7C-448C-48B4-9354-0B51690BE7D0}|AbstractExample2\\AbstractExample2.csproj|d:\\wipro\\day4\\abstractexample2\\abstractexample2\\crocodile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D44D7C-448C-48B4-9354-0B51690BE7D0}|AbstractExample2\\AbstractExample2.csproj|solutionrelative:abstractexample2\\crocodile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D44D7C-448C-48B4-9354-0B51690BE7D0}|AbstractExample2\\AbstractExample2.csproj|d:\\wipro\\day4\\abstractexample2\\abstractexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D44D7C-448C-48B4-9354-0B51690BE7D0}|AbstractExample2\\AbstractExample2.csproj|solutionrelative:abstractexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D44D7C-448C-48B4-9354-0B51690BE7D0}|AbstractExample2\\AbstractExample2.csproj|d:\\wipro\\day4\\abstractexample2\\abstractexample2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D44D7C-448C-48B4-9354-0B51690BE7D0}|AbstractExample2\\AbstractExample2.csproj|solutionrelative:abstractexample2\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "D:\\wipro\\Day4\\AbstractExample2\\AbstractExample2\\Cow.cs",
+              "RelativeDocumentMoniker": "AbstractExample2\\Cow.cs",
+              "ToolTip": "D:\\wipro\\Day4\\AbstractExample2\\AbstractExample2\\Cow.cs",
+              "RelativeToolTip": "AbstractExample2\\Cow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:16:36.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crocodile.cs",
+              "DocumentMoniker": "D:\\wipro\\Day4\\AbstractExample2\\AbstractExample2\\Crocodile.cs",
+              "RelativeDocumentMoniker": "AbstractExample2\\Crocodile.cs",
+              "ToolTip": "D:\\wipro\\Day4\\AbstractExample2\\AbstractExample2\\Crocodile.cs",
+              "RelativeToolTip": "AbstractExample2\\Crocodile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:14:05.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "D:\\wipro\\Day4\\AbstractExample2\\AbstractExample2\\Lion.cs",
+              "RelativeDocumentMoniker": "AbstractExample2\\Lion.cs",
+              "ToolTip": "D:\\wipro\\Day4\\AbstractExample2\\AbstractExample2\\Lion.cs",
+              "RelativeToolTip": "AbstractExample2\\Lion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:13:17.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\wipro\\Day4\\AbstractExample2\\AbstractExample2\\Animal.cs",
+              "RelativeDocumentMoniker": "AbstractExample2\\Animal.cs",
+              "ToolTip": "D:\\wipro\\Day4\\AbstractExample2\\AbstractExample2\\Animal.cs",
+              "RelativeToolTip": "AbstractExample2\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:12:19.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro\\Day4\\AbstractExample2\\AbstractExample2\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractExample2\\Program.cs",
+              "ToolTip": "D:\\wipro\\Day4\\AbstractExample2\\AbstractExample2\\Program.cs",
+              "RelativeToolTip": "AbstractExample2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T06:10:23.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

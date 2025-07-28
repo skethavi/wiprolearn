@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro\\Day5\\CollectionsExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|d:\\wipro\\day5\\collectionsexample\\collectionsexample\\stackexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|solutionrelative:collectionsexample\\stackexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CollectionsExample||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|d:\\wipro\\day5\\collectionsexample\\collectionsexample\\outparamex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|solutionrelative:collectionsexample\\outparamex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|d:\\wipro\\day5\\collectionsexample\\collectionsexample\\example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|solutionrelative:collectionsexample\\example2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|d:\\wipro\\day5\\collectionsexample\\collectionsexample\\example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|solutionrelative:collectionsexample\\example1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|d:\\wipro\\day5\\collectionsexample\\collectionsexample\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|solutionrelative:collectionsexample\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|d:\\wipro\\day5\\collectionsexample\\collectionsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|solutionrelative:collectionsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA3DB57-0039-4DE7-A7F5-9A0DF6AF1114}|CollectionsExample\\CollectionsExample.csproj|d:\\wipro\\day5\\collectionsexample\\collectionsexample\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackExample.cs",
+              "DocumentMoniker": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\StackExample.cs",
+              "RelativeDocumentMoniker": "CollectionsExample\\StackExample.cs",
+              "ToolTip": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\StackExample.cs",
+              "RelativeToolTip": "CollectionsExample\\StackExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:02:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutParamEx1.cs",
+              "DocumentMoniker": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\OutParamEx1.cs",
+              "RelativeDocumentMoniker": "CollectionsExample\\OutParamEx1.cs",
+              "ToolTip": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\OutParamEx1.cs",
+              "RelativeToolTip": "CollectionsExample\\OutParamEx1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:00:48.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionsExample",
+              "DocumentMoniker": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\CollectionsExample.csproj",
+              "RelativeDocumentMoniker": "CollectionsExample\\CollectionsExample.csproj",
+              "ToolTip": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\CollectionsExample.csproj",
+              "RelativeToolTip": "CollectionsExample\\CollectionsExample.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T05:56:16.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Example2.cs",
+              "DocumentMoniker": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\Example2.cs",
+              "RelativeDocumentMoniker": "CollectionsExample\\Example2.cs",
+              "ToolTip": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\Example2.cs",
+              "RelativeToolTip": "CollectionsExample\\Example2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:58:17.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Example1.cs",
+              "DocumentMoniker": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\Example1.cs",
+              "RelativeDocumentMoniker": "CollectionsExample\\Example1.cs",
+              "ToolTip": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\Example1.cs",
+              "RelativeToolTip": "CollectionsExample\\Example1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:57:21.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\Employ.cs",
+              "RelativeDocumentMoniker": "CollectionsExample\\Employ.cs",
+              "ToolTip": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\Employ.cs",
+              "RelativeToolTip": "CollectionsExample\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:55:58.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionsExample\\Program.cs",
+              "ToolTip": "D:\\wipro\\Day5\\CollectionsExample\\CollectionsExample\\Program.cs",
+              "RelativeToolTip": "CollectionsExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:55:36.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\wipro\Day4\IntfTest\IntfTest\obj\Debug\IntfTest.csproj.AssemblyReference.cache
+D:\wipro\Day4\IntfTest\IntfTest\obj\Debug\IntfTest.csproj.CoreCompileInputs.cache
+D:\wipro\Day4\IntfTest\IntfTest\bin\Debug\IntfTest.exe.config
+D:\wipro\Day4\IntfTest\IntfTest\bin\Debug\IntfTest.exe
+D:\wipro\Day4\IntfTest\IntfTest\bin\Debug\IntfTest.pdb
+D:\wipro\Day4\IntfTest\IntfTest\obj\Debug\IntfTest.exe
+D:\wipro\Day4\IntfTest\IntfTest\obj\Debug\IntfTest.pdb

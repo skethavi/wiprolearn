@@ -1,0 +1,8 @@
+D:\wipro\Day5\WiproDay5\WiproDay5\bin\Debug\WiproDay5.exe.config
+D:\wipro\Day5\WiproDay5\WiproDay5\bin\Debug\WiproDay5.exe
+D:\wipro\Day5\WiproDay5\WiproDay5\bin\Debug\WiproDay5.pdb
+D:\wipro\Day5\WiproDay5\WiproDay5\obj\Debug\WiproDay5.csproj.AssemblyReference.cache
+D:\wipro\Day5\WiproDay5\WiproDay5\obj\Debug\WiproDay5.csproj.CoreCompileInputs.cache
+D:\wipro\Day5\WiproDay5\WiproDay5\obj\Debug\WiproDay5.exe
+D:\wipro\Day5\WiproDay5\WiproDay5\obj\Debug\WiproDay5.pdb
+D:\wipro\Day5\WiproDay5\WiproDay5\obj\Debug\WiproDay5.exe.config

@@ -1,0 +1,8 @@
+D:\wipro\Day5\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+D:\wipro\Day5\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+D:\wipro\Day5\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+D:\wipro\Day5\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+D:\wipro\Day5\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+D:\wipro\Day5\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+D:\wipro\Day5\FileHandling\FileHandling\obj\Debug\FileHandling.pdb
+D:\wipro\Day5\FileHandling\FileHandling\obj\Debug\FileHandling.exe.config
