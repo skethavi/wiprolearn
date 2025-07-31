@@ -1,0 +1,16 @@
+D:\wipro\Day6\AgentProject.MainOne\bin\Debug\AgentProject.MainOne.exe.config
+D:\wipro\Day6\AgentProject.MainOne\bin\Debug\AgentProject.MainOne.exe
+D:\wipro\Day6\AgentProject.MainOne\bin\Debug\AgentProject.MainOne.pdb
+D:\wipro\Day6\AgentProject.MainOne\bin\Debug\AgentProject.Bal.dll
+D:\wipro\Day6\AgentProject.MainOne\bin\Debug\AgentProject.Exceptions.dll
+D:\wipro\Day6\AgentProject.MainOne\bin\Debug\AgentProject.Models.dll
+D:\wipro\Day6\AgentProject.MainOne\bin\Debug\AgentProject.Dao.dll
+D:\wipro\Day6\AgentProject.MainOne\bin\Debug\AgentProject.Bal.pdb
+D:\wipro\Day6\AgentProject.MainOne\bin\Debug\AgentProject.Exceptions.pdb
+D:\wipro\Day6\AgentProject.MainOne\bin\Debug\AgentProject.Models.pdb
+D:\wipro\Day6\AgentProject.MainOne\bin\Debug\AgentProject.Dao.pdb
+D:\wipro\Day6\AgentProject.MainOne\obj\Debug\AgentProject.MainOne.csproj.AssemblyReference.cache
+D:\wipro\Day6\AgentProject.MainOne\obj\Debug\AgentProject.MainOne.csproj.CoreCompileInputs.cache
+D:\wipro\Day6\AgentProject.MainOne\obj\Debug\AgentPro.E1AAE790.Up2Date
+D:\wipro\Day6\AgentProject.MainOne\obj\Debug\AgentProject.MainOne.exe
+D:\wipro\Day6\AgentProject.MainOne\obj\Debug\AgentProject.MainOne.pdb

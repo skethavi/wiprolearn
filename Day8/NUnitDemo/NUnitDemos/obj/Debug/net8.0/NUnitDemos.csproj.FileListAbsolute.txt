@@ -1,0 +1,11 @@
+D:\wipro\Day8\NUnitDemo\NUnitDemos\bin\Debug\net8.0\NUnitDemos.deps.json
+D:\wipro\Day8\NUnitDemo\NUnitDemos\bin\Debug\net8.0\NUnitDemos.dll
+D:\wipro\Day8\NUnitDemo\NUnitDemos\bin\Debug\net8.0\NUnitDemos.pdb
+D:\wipro\Day8\NUnitDemo\NUnitDemos\obj\Debug\net8.0\NUnitDemos.GeneratedMSBuildEditorConfig.editorconfig
+D:\wipro\Day8\NUnitDemo\NUnitDemos\obj\Debug\net8.0\NUnitDemos.AssemblyInfoInputs.cache
+D:\wipro\Day8\NUnitDemo\NUnitDemos\obj\Debug\net8.0\NUnitDemos.AssemblyInfo.cs
+D:\wipro\Day8\NUnitDemo\NUnitDemos\obj\Debug\net8.0\NUnitDemos.csproj.CoreCompileInputs.cache
+D:\wipro\Day8\NUnitDemo\NUnitDemos\obj\Debug\net8.0\NUnitDemos.dll
+D:\wipro\Day8\NUnitDemo\NUnitDemos\obj\Debug\net8.0\refint\NUnitDemos.dll
+D:\wipro\Day8\NUnitDemo\NUnitDemos\obj\Debug\net8.0\NUnitDemos.pdb
+D:\wipro\Day8\NUnitDemo\NUnitDemos\obj\Debug\net8.0\ref\NUnitDemos.dll
