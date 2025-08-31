@@ -1,0 +1,41 @@
+@model IEnumerable.RoleProductApp.ViewModels.ProductListItemViewModel
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h2>Products</h2>
+
+@if (User.IsInRole("Admin"))
+{
+    <a class="btn btn-success mb-2" asp-action="Create">Create Product</a>
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Name</td>
+                <td>@p.Price.ToString("C")</td>
+                <td>
+                    <a class="btn btn-sm btn-primary" asp-action="Edit" asp-route-id="@p.Id">Edit</a>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <form asp-action="Delete" method="post" style="display:inline-block; margin-left:5px;">
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="id" value="@p.Id" />
+                            <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
