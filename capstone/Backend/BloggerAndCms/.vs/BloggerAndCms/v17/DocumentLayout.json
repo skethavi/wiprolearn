@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capstone\\BloggerAndCms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\bloggerandcms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\bloggerandcms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3026DDC1-7085-4829-B6B0-78FFF98BE600}|..\\BloogerAndCms.Tests\\BloogerAndCms.Tests.csproj|d:\\capstone\\bloogerandcms.tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3026DDC1-7085-4829-B6B0-78FFF98BE600}|..\\BloogerAndCms.Tests\\BloogerAndCms.Tests.csproj|d:\\capstone\\bloogerandcms.tests\\blogpostcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3026DDC1-7085-4829-B6B0-78FFF98BE600}|..\\BloogerAndCms.Tests\\BloogerAndCms.Tests.csproj|d:\\capstone\\bloogerandcms.tests\\bloogerandcms.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\dtos\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\dtos\\blogpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|d:\\capstone\\bloggerandcms\\bloggerandcms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDD4737-951A-4446-9866-6CF9EB8A4CC4}|BloggerAndCms\\BloggerAndCms.csproj|solutionrelative:bloggerandcms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloogerAndCms.Tests\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\BloogerAndCms.Tests\\AuthControllerTests.cs",
+              "ToolTip": "D:\\Capstone\\BloogerAndCms.Tests\\AuthControllerTests.cs",
+              "RelativeToolTip": "..\\BloogerAndCms.Tests\\AuthControllerTests.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAgwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T06:55:42.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogPostControllerTests.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloogerAndCms.Tests\\BlogPostControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\BloogerAndCms.Tests\\BlogPostControllerTests.cs",
+              "ToolTip": "D:\\Capstone\\BloogerAndCms.Tests\\BlogPostControllerTests.cs",
+              "RelativeToolTip": "..\\BloogerAndCms.Tests\\BlogPostControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:38:13.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BloogerAndCms.Tests.csproj",
+              "DocumentMoniker": "D:\\Capstone\\BloogerAndCms.Tests\\BloogerAndCms.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\BloogerAndCms.Tests\\BloogerAndCms.Tests.csproj",
+              "ToolTip": "D:\\Capstone\\BloogerAndCms.Tests\\BloogerAndCms.Tests.csproj",
+              "RelativeToolTip": "..\\BloogerAndCms.Tests\\BloogerAndCms.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-01T06:57:07.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "BloggerAndCms\\Models\\BlogPost.cs",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Models\\BlogPost.cs",
+              "RelativeToolTip": "BloggerAndCms\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:06:14.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "BloggerAndCms\\Controllers\\BlogPostsController.cs",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "BloggerAndCms\\Controllers\\BlogPostsController.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAwwFABAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:01:35.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BloggerAndCms\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BloggerAndCms\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T05:57:58.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BloggerAndCms.csproj",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\BloggerAndCms.csproj",
+              "RelativeDocumentMoniker": "BloggerAndCms\\BloggerAndCms.csproj",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\BloggerAndCms.csproj",
+              "RelativeToolTip": "BloggerAndCms\\BloggerAndCms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T05:56:44.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BloggerAndCms\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "BloggerAndCms\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:07:10.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\appsettings.json",
+              "RelativeDocumentMoniker": "BloggerAndCms\\appsettings.json",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\appsettings.json",
+              "RelativeToolTip": "BloggerAndCms\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-29T06:12:38.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BloggerAndCms\\Models\\User.cs",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Models\\User.cs",
+              "RelativeToolTip": "BloggerAndCms\\Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA2wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:03:47.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BloggerAndCms\\Models\\Category.cs",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Models\\Category.cs",
+              "RelativeToolTip": "BloggerAndCms\\Models\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:05:11.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BloggerAndCms\\DTOs\\RegisterDto.cs",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "BloggerAndCms\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:09:20.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BloggerAndCms\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "BloggerAndCms\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:09:33.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogPostDto.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\DTOs\\BlogPostDto.cs",
+              "RelativeDocumentMoniker": "BloggerAndCms\\DTOs\\BlogPostDto.cs",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\DTOs\\BlogPostDto.cs",
+              "RelativeToolTip": "BloggerAndCms\\DTOs\\BlogPostDto.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:09:58.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Program.cs",
+              "RelativeDocumentMoniker": "BloggerAndCms\\Program.cs",
+              "ToolTip": "D:\\Capstone\\BloggerAndCms\\BloggerAndCms\\Program.cs",
+              "RelativeToolTip": "BloggerAndCms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:11:41.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\milestone\\RoleProductApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\viewmodels\\productlistitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\viewmodels\\productlistitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\roleproductapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\roleproductapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\viewmodels\\editproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\viewmodels\\editproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\viewmodels\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\viewmodels\\createproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|e:\\milestone\\roleproductapp\\roleproductapp\\views\\shared\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21C38ACE-A183-4180-99FB-5164251D626D}|RoleProductApp\\RoleProductApp.csproj|solutionrelative:roleproductapp\\views\\shared\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Startup.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\Startup.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Startup.cs",
+              "RelativeToolTip": "RoleProductApp\\Startup.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:15:52.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RoleProductApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:56:38.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RoleProductApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:57:16.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Program.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\Program.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Program.cs",
+              "RelativeToolTip": "RoleProductApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:16:43.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\appsettings.json",
+              "RelativeDocumentMoniker": "RoleProductApp\\appsettings.json",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\appsettings.json",
+              "RelativeToolTip": "RoleProductApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T05:17:29.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\Models\\Product.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Models\\Product.cs",
+              "RelativeToolTip": "RoleProductApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:59:29.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductListItemViewModel.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\ViewModels\\ProductListItemViewModel.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\ViewModels\\ProductListItemViewModel.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\ViewModels\\ProductListItemViewModel.cs",
+              "RelativeToolTip": "RoleProductApp\\ViewModels\\ProductListItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:01:41.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "RoleProductApp\\Views\\Product\\ProductList.cshtml",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "RoleProductApp\\Views\\Product\\ProductList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T05:05:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "RoleProductApp\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:59:16.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\Data\\DbInitializer.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "RoleProductApp\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:58:34.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoleProductApp",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\RoleProductApp.csproj",
+              "RelativeDocumentMoniker": "RoleProductApp\\RoleProductApp.csproj",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\RoleProductApp.csproj",
+              "RelativeToolTip": "RoleProductApp\\RoleProductApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-31T04:54:44.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RoleProductApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:14:57.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RoleProductApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:56:07.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "RoleProductApp\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:02:07.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "RoleProductApp\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:01:21.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditProductViewModel.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\ViewModels\\EditProductViewModel.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\ViewModels\\EditProductViewModel.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\ViewModels\\EditProductViewModel.cs",
+              "RelativeToolTip": "RoleProductApp\\ViewModels\\EditProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:00:56.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateProductViewModel.cs",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\ViewModels\\CreateProductViewModel.cs",
+              "RelativeDocumentMoniker": "RoleProductApp\\ViewModels\\CreateProductViewModel.cs",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\ViewModels\\CreateProductViewModel.cs",
+              "RelativeToolTip": "RoleProductApp\\ViewModels\\CreateProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:00:17.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "RoleProductApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "RoleProductApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T05:04:05.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "RoleProductApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "RoleProductApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T05:03:36.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "RoleProductApp\\Views\\Product\\CreateProduct.cshtml",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeToolTip": "RoleProductApp\\Views\\Product\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T05:04:55.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Product\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "RoleProductApp\\Views\\Product\\EditProduct.cshtml",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Product\\EditProduct.cshtml",
+              "RelativeToolTip": "RoleProductApp\\Views\\Product\\EditProduct.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T05:05:49.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "RoleProductApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "RoleProductApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T05:07:46.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RoleProductApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RoleProductApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwC4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T05:07:23.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "RoleProductApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "RoleProductApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T05:07:02.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Shared\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "RoleProductApp\\Views\\Shared\\AccessDenied.cshtml",
+              "ToolTip": "E:\\milestone\\RoleProductApp\\RoleProductApp\\Views\\Shared\\AccessDenied.cshtml",
+              "RelativeToolTip": "RoleProductApp\\Views\\Shared\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T05:06:24.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
