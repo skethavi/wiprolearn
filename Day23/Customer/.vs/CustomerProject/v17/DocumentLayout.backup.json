@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|c:\\users\\ketha\\wiprolearn\\day23\\customer\\customer\\models\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|solutionrelative:customer\\models\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|c:\\users\\ketha\\wiprolearn\\day23\\customer\\customer\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|solutionrelative:customer\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|c:\\users\\ketha\\wiprolearn\\day23\\customer\\customer\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|solutionrelative:customer\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|c:\\users\\ketha\\wiprolearn\\day23\\customer\\customer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|solutionrelative:customer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|c:\\users\\ketha\\wiprolearn\\day23\\customer\\customer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|solutionrelative:customer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|c:\\users\\ketha\\wiprolearn\\day23\\customer\\customer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4068C23-61B2-4FF2-9777-D8C98B40B7ED}|Customer\\CustomerProject.csproj|solutionrelative:customer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\Program.cs",
+              "RelativeDocumentMoniker": "Customer\\Program.cs",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\Program.cs",
+              "RelativeToolTip": "Customer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:55:11.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\appsettings.json",
+              "RelativeDocumentMoniker": "Customer\\appsettings.json",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\appsettings.json",
+              "RelativeToolTip": "Customer\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T10:52:42.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Customer\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\Models\\Login.cs",
+              "RelativeToolTip": "Customer\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:52:21.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Customer\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Customer\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:50:56.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\Models\\CustomerDbContext.cs",
+              "RelativeDocumentMoniker": "Customer\\Models\\CustomerDbContext.cs",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\Models\\CustomerDbContext.cs",
+              "RelativeToolTip": "Customer\\Models\\CustomerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:47:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day23\\Customer\\Customer\\Models\\Customer.cs",
+              "RelativeToolTip": "Customer\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:44:50.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

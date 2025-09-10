@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{014F516D-CFDD-48C3-A0DB-62112D789F6F}|Employcrud\\Employcrud.csproj|solutionrelative:employcrud\\controllers\\employscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{014F516D-CFDD-48C3-A0DB-62112D789F6F}|Employcrud\\Employcrud.csproj|c:\\users\\ketha\\wiprolearn\\day19\\employcrud\\employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{014F516D-CFDD-48C3-A0DB-62112D789F6F}|Employcrud\\Employcrud.csproj|solutionrelative:employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{014F516D-CFDD-48C3-A0DB-62112D789F6F}|Employcrud\\Employcrud.csproj|c:\\users\\ketha\\wiprolearn\\day19\\employcrud\\employcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{014F516D-CFDD-48C3-A0DB-62112D789F6F}|Employcrud\\Employcrud.csproj|solutionrelative:employcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014F516D-CFDD-48C3-A0DB-62112D789F6F}|Employcrud\\Employcrud.csproj|c:\\users\\ketha\\wiprolearn\\day19\\employcrud\\employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{014F516D-CFDD-48C3-A0DB-62112D789F6F}|Employcrud\\Employcrud.csproj|solutionrelative:employcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{014F516D-CFDD-48C3-A0DB-62112D789F6F}|Employcrud\\Employcrud.csproj|c:\\users\\ketha\\wiprolearn\\day19\\employcrud\\employcrud\\models\\efcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,24 +33,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmploysController.cs",
-              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day19\\Employcrud\\Employcrud\\Controllers\\EmploysController.cs",
-              "RelativeDocumentMoniker": "Employcrud\\Controllers\\EmploysController.cs",
-              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day19\\Employcrud\\Employcrud\\Controllers\\EmploysController.cs",
-              "RelativeToolTip": "Employcrud\\Controllers\\EmploysController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T08:49:39.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day19\\Employcrud\\Employcrud\\Program.cs",
               "RelativeDocumentMoniker": "Employcrud\\Program.cs",
@@ -63,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day19\\Employcrud\\Employcrud\\appsettings.json",
               "RelativeDocumentMoniker": "Employcrud\\appsettings.json",
@@ -76,6 +63,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmploysController.cs",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day19\\Employcrud\\Employcrud\\Controllers\\EmploysController.cs",
+              "RelativeDocumentMoniker": "Employcrud\\Controllers\\EmploysController.cs",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day19\\Employcrud\\Employcrud\\Controllers\\EmploysController.cs",
+              "RelativeToolTip": "Employcrud\\Controllers\\EmploysController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T08:49:39.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EFCoreDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day19\\Employcrud\\Employcrud\\Models\\EFCoreDbContext.cs",
@@ -84,8 +84,7 @@
               "RelativeToolTip": "Employcrud\\Models\\EFCoreDbContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAzwBIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T07:47:40.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T07:47:40.196Z"
             },
             {
               "$type": "Document",
@@ -97,8 +96,7 @@
               "RelativeToolTip": "Employcrud\\Models\\Employ.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T07:46:27.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T07:46:27.671Z"
             },
             {
               "$type": "Document",
@@ -110,12 +108,7 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\cf834981-ea2f-4948-84ea-3926a15ad9bf\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-16T07:28:52.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-08-16T07:28:52.991Z"
             }
           ]
         }

@@ -1,0 +1,7 @@
+C:\Users\ketha\wiprolearn\Day10\IspWith\IspWith\bin\Debug\IspWith.exe.config
+C:\Users\ketha\wiprolearn\Day10\IspWith\IspWith\bin\Debug\IspWith.exe
+C:\Users\ketha\wiprolearn\Day10\IspWith\IspWith\bin\Debug\IspWith.pdb
+C:\Users\ketha\wiprolearn\Day10\IspWith\IspWith\obj\Debug\IspWith.csproj.AssemblyReference.cache
+C:\Users\ketha\wiprolearn\Day10\IspWith\IspWith\obj\Debug\IspWith.csproj.CoreCompileInputs.cache
+C:\Users\ketha\wiprolearn\Day10\IspWith\IspWith\obj\Debug\IspWith.exe
+C:\Users\ketha\wiprolearn\Day10\IspWith\IspWith\obj\Debug\IspWith.pdb

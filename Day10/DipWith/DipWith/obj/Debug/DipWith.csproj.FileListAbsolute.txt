@@ -1,0 +1,7 @@
+C:\Users\ketha\wiprolearn\Day10\DipWith\DipWith\bin\Debug\DipWith.exe.config
+C:\Users\ketha\wiprolearn\Day10\DipWith\DipWith\bin\Debug\DipWith.exe
+C:\Users\ketha\wiprolearn\Day10\DipWith\DipWith\bin\Debug\DipWith.pdb
+C:\Users\ketha\wiprolearn\Day10\DipWith\DipWith\obj\Debug\DipWith.csproj.AssemblyReference.cache
+C:\Users\ketha\wiprolearn\Day10\DipWith\DipWith\obj\Debug\DipWith.csproj.CoreCompileInputs.cache
+C:\Users\ketha\wiprolearn\Day10\DipWith\DipWith\obj\Debug\DipWith.exe
+C:\Users\ketha\wiprolearn\Day10\DipWith\DipWith\obj\Debug\DipWith.pdb

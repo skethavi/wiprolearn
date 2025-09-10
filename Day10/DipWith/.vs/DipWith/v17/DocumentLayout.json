@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ketha\\wiprolearn\\Day10\\DipWith\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED888D6-6EA5-4D3F-A94C-EF3A4755EF25}|DipWith\\DipWith.csproj|c:\\users\\ketha\\wiprolearn\\day10\\dipwith\\dipwith\\itrainerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED888D6-6EA5-4D3F-A94C-EF3A4755EF25}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\itrainerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED888D6-6EA5-4D3F-A94C-EF3A4755EF25}|DipWith\\DipWith.csproj|c:\\users\\ketha\\wiprolearn\\day10\\dipwith\\dipwith\\javainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED888D6-6EA5-4D3F-A94C-EF3A4755EF25}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\javainfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED888D6-6EA5-4D3F-A94C-EF3A4755EF25}|DipWith\\DipWith.csproj|c:\\users\\ketha\\wiprolearn\\day10\\dipwith\\dipwith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED888D6-6EA5-4D3F-A94C-EF3A4755EF25}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED888D6-6EA5-4D3F-A94C-EF3A4755EF25}|DipWith\\DipWith.csproj|c:\\users\\ketha\\wiprolearn\\day10\\dipwith\\dipwith\\trainerutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED888D6-6EA5-4D3F-A94C-EF3A4755EF25}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\trainerutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED888D6-6EA5-4D3F-A94C-EF3A4755EF25}|DipWith\\DipWith.csproj|c:\\users\\ketha\\wiprolearn\\day10\\dipwith\\dipwith\\dotnetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED888D6-6EA5-4D3F-A94C-EF3A4755EF25}|DipWith\\DipWith.csproj|solutionrelative:dipwith\\dotnetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainerUtil.cs",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day10\\DipWith\\DipWith\\TrainerUtil.cs",
+              "RelativeDocumentMoniker": "DipWith\\TrainerUtil.cs",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day10\\DipWith\\DipWith\\TrainerUtil.cs",
+              "RelativeToolTip": "DipWith\\TrainerUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:32:28.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JavaInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day10\\DipWith\\DipWith\\JavaInfo.cs",
+              "RelativeDocumentMoniker": "DipWith\\JavaInfo.cs",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day10\\DipWith\\DipWith\\JavaInfo.cs",
+              "RelativeToolTip": "DipWith\\JavaInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:29:55.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITrainerData.cs",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day10\\DipWith\\DipWith\\ITrainerData.cs",
+              "RelativeDocumentMoniker": "DipWith\\ITrainerData.cs",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day10\\DipWith\\DipWith\\ITrainerData.cs",
+              "RelativeToolTip": "DipWith\\ITrainerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:29:48.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DotnetInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day10\\DipWith\\DipWith\\DotnetInfo.cs",
+              "RelativeDocumentMoniker": "DipWith\\DotnetInfo.cs",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day10\\DipWith\\DipWith\\DotnetInfo.cs",
+              "RelativeToolTip": "DipWith\\DotnetInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:29:45.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ketha\\wiprolearn\\Day10\\DipWith\\DipWith\\Program.cs",
+              "RelativeDocumentMoniker": "DipWith\\Program.cs",
+              "ToolTip": "C:\\Users\\ketha\\wiprolearn\\Day10\\DipWith\\DipWith\\Program.cs",
+              "RelativeToolTip": "DipWith\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T06:28:53.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

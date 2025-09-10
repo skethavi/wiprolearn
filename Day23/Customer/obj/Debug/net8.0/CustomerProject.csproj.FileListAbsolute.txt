@@ -1,0 +1,9 @@
+C:\Users\ketha\wiprolearn\Day23\Customer\Customer\obj\Debug\net8.0\CustomerProject.csproj.AssemblyReference.cache
+C:\Users\ketha\wiprolearn\Day23\Customer\Customer\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ketha\wiprolearn\Day23\Customer\Customer\obj\Debug\net8.0\CustomerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketha\wiprolearn\Day23\Customer\Customer\obj\Debug\net8.0\CustomerProject.AssemblyInfoInputs.cache
+C:\Users\ketha\wiprolearn\Day23\Customer\Customer\obj\Debug\net8.0\CustomerProject.AssemblyInfo.cs
+C:\Users\ketha\wiprolearn\Day23\Customer\Customer\obj\Debug\net8.0\CustomerProject.csproj.CoreCompileInputs.cache
+C:\Users\ketha\wiprolearn\Day23\Customer\Customer\obj\Debug\net8.0\CustomerProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ketha\wiprolearn\Day23\Customer\Customer\obj\Debug\net8.0\CustomerProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ketha\wiprolearn\Day23\Customer\Customer\obj\Debug\net8.0\CustomerProject.sourcelink.json
